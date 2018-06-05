@@ -1579,4 +1579,22 @@ export const persons = [
       country: "Canada"
     }
   },
-];
+  },
+    {
+    id: 93,
+    name: "Germaine Beazer",
+    img: "none",
+    links: {
+      website: "none at the moment",
+      linkedin: "www.linkedin.com/in/germaine-beazer-3a647b113,
+      github: "https://github.com/gbiz21"
+    },
+    jobTitle: "System Admin, working on becoming a FullStack Developer",
+    location: {
+      city: "Orlando",
+      state: "FL",
+      country: "USA"
+    }
+  },
+
+  },;
